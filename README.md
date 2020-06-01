@@ -9,3 +9,5 @@ Stickers are available in 2 flavors:
 * .png file, +alpha if need be
 
 Feel free to use, print, share.
+
+![Alt text](preview/stickers_preview.jpg?raw=true "Preview")
